@@ -472,6 +472,7 @@
     transition: 0.3s;
     border-radius: var(--radius-25);
     opacity: 0;
+    height: 150px;
   }
   
   .popular-card:hover .card-content{
@@ -496,7 +497,7 @@
   
   .popular-card .card-subtitle {
     color: var(--blue-ncs);
-    font-size: var(--fs-6);
+    font-size: var(--fs-5);
     text-transform: uppercase;
     margin-bottom: 8px;
   }
